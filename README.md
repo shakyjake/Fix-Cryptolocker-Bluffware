@@ -1,4 +1,4 @@
-# Fix-Cryptolocker-Bluffware
+# Fix Files with .crypted on the end
 
 I recently had a client become a victim of a cryptolocker scam. The catch, however, was that whoever built the software doesn't appear to know how to do the "crypto" part of cryptolocker. All the software did was add a .crypted extension to the end of the user's files. Mild inconvenience? Yes. Expensive catastrophe? Definitely not.
 
