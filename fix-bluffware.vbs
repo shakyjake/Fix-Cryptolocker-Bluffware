@@ -6,9 +6,6 @@
 		WScript.Quit
 	End If
 
-
-	' Copyright 18/03/16 Jake Nicholson
-
 	Dim gFolderCount : gFolderCount = 0
 	Dim gFileCount : gFileCount = 0
 	Dim gInfectedFileCount : gInfectedFileCount = 0
