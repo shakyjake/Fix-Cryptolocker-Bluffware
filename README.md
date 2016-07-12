@@ -10,4 +10,4 @@ You should only run this **after you've removed the virus itself** using a malwa
 
 A good way to test this is to find an image (.jpg, or .png) that now has .crypted on the end and remove the .crypted part (right-click, rename). Then open the file. If the image displays normally then we're good to go.
 
-_Note: Chrome may, somewhat ironically, flag this download as a virus so you may need to use a different browser to download it._
+_Note: Chrome may, somewhat ironically, flag this file as a virus so you may need to use a different browser to download it._
